@@ -1,6 +1,7 @@
 # AQI-INDEX-ANALYSIS-PowerBI-Dashboard
 
 🐦 **The story Behind This Project**
+
 The AQI Index Analysis project was developed to understand and visualize the growing issue of air pollution in cities. With increasing industrial activities, traffic, and urbanization, air quality has become a major environmental and health concern. The project uses Microsoft Power BI to transform raw air quality data into meaningful insights.
 
 The main idea behind this project is to collect Air Quality Index (AQI) data from different cities and time periods and analyze how pollution levels change over time. By organizing the data and presenting it through interactive dashboards, the project helps users easily identify which cities have higher pollution levels and when air quality becomes unsafe.
@@ -11,6 +12,7 @@ So, the story behind this project is to use data analytics and visualization to 
 
 
 🔍 **what This Dashboard Explores Their Insights And Analysis**
+
 The AQI Index Analysis dashboard created using Microsoft Power BI explores different aspects of air quality data to help understand pollution patterns.
 
 1. Air Quality Levels Across Cities
@@ -32,6 +34,7 @@ So, the dashboard explores air pollution trends, city-wise AQI comparison, and t
 
 
 📊 **Key Insights From This Data**
+
 City-wise AQI Comparison
 The dashboard highlights which cities have higher and lower AQI levels, helping identify areas with poor air quality.
 
@@ -50,6 +53,7 @@ The dashboard provides a clear overview of air quality status across cities, sup
 Tools like Microsoft Power BI help transform raw AQI data into these visual insights for easier understanding. 🌍📊
 
 🛠️ **Tool And Technologies Used**
+
 📊 Microsoft Power BI Desktop – Dashboard creation and data visualization
 
 🔄 Power Query – Data cleaning and transformation
@@ -60,3 +64,5 @@ Tools like Microsoft Power BI help transform raw AQI data into these visual insi
 
 
 🎓 **What I learned from this project**
+
+![image alt](https://github.com/kashishtan/AQI-INDEX-ANALYSIS-PowerBI-Dashboard/blob/29bc9cff756ab5d968b182028a1899f5e67393d8/Image.png)
