@@ -15,19 +15,19 @@ So, the story behind this project is to use data analytics and visualization to 
 
 The AQI Index Analysis dashboard created using Microsoft Power BI explores different aspects of air quality data to help understand pollution patterns.
 
-1. Air Quality Levels Across Cities
+1. Air Quality Levels Across Cities - 
 The dashboard compares AQI values for different cities to identify which locations have higher or lower pollution levels.
 
-2. AQI Trends Over Time
+2. AQI Trends Over Time - 
 It analyzes how air quality changes over time (daily, monthly, or yearly) to observe pollution trends and seasonal patterns.
 
-3. Pollution Category Distribution
+3. Pollution Category Distribution - 
 The dashboard classifies AQI values into categories such as Good, Moderate, Poor, and Severe to show the overall air quality condition.
 
-4. Pollutant Impact Analysis
+4. Pollutant Impact Analysis - 
 It explores how different pollutants (such as PM2.5, PM10, NO₂, etc.) contribute to the overall AQI level.
 
-5. Interactive Data Exploration
+5. Interactive Data Exploration - 
 Using filters and slicers, users can explore the data by city, date, or AQI category to gain deeper insights.
 
 So, the dashboard explores air pollution trends, city-wise AQI comparison, and time-based air quality analysis to help understand environmental conditions more clearly. 🌍📊
@@ -35,19 +35,19 @@ So, the dashboard explores air pollution trends, city-wise AQI comparison, and t
 
 📊 **Key Insights From This Data**
 
-City-wise AQI Comparison
+City-wise AQI Comparison - 
 The dashboard highlights which cities have higher and lower AQI levels, helping identify areas with poor air quality.
 
-Air Quality Trends Over Time
+Air Quality Trends Over Time - 
 It shows how AQI changes across different dates or months, revealing pollution patterns and seasonal variations.
 
-High Pollution Periods
+High Pollution Periods - 
 Certain time periods show spikes in AQI, indicating days when air pollution was more severe.
 
-Pollutant Contribution
+Pollutant Contribution - 
 The analysis helps understand which pollutants (like PM2.5 or PM10) contribute most to poor air quality.
 
-Overall Environmental Condition
+Overall Environmental Condition - 
 The dashboard provides a clear overview of air quality status across cities, supporting monitoring and awareness.
 
 Tools like Microsoft Power BI help transform raw AQI data into these visual insights for easier understanding. 🌍📊
